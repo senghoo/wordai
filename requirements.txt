@@ -1,0 +1,11 @@
+mongoengine
+mongoengine-goodjson
+lxml
+translate-toolkit
+nltk
+flask
+flask-restful
+flask-jwt-extended
+flask-cors
+bcrypt
+jsonschema
