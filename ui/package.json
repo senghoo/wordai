@@ -15,7 +15,7 @@
     "element-ui": "^2.12.0",
     "font-awesome": "^4.7.0",
     "js-cookie": "^2.2.1",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "vue": "^2.5.2",
     "vue-axios": "^2.1.4",
     "vue-cli": "^2.9.6",
